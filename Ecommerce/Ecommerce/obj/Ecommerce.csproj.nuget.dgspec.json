@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaber\\source\\repos\\moath\\lab2mvc-\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {}
+    "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaber\\source\\repos\\moath\\lab2mvc-\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {
+    "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaber\\source\\repos\\moath\\lab2mvc-\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+        "projectUniqueName": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
         "projectName": "Ecommerce",
-        "projectPath": "C:\\Users\\jaber\\source\\repos\\moath\\lab2mvc-\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+        "projectPath": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
         "packagesPath": "C:\\Users\\jaber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaber\\source\\repos\\moath\\lab2mvc-\\Ecommerce\\Ecommerce\\obj\\",
+        "outputPath": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaber\\AppData\\Roaming\\NuGet\\NuGet.Config",
