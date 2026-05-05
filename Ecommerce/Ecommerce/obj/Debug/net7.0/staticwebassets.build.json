@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1U1gmESwsGVH4B1qqhSbbZs14wVsSiY9OuV1nsjF6MA=",
+  "Hash": "InoMA/3T48VREaSq5/yDTwq2claqIZTR1aXjuaZJxBs=",
   "Source": "Ecommerce",
   "BasePath": "_content/Ecommerce",
   "Mode": "Default",
@@ -66,6 +66,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\assets\\css\\myStyle.css",
+      "SourceId": "Ecommerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\",
+      "BasePath": "_content/Ecommerce",
+      "RelativePath": "assets/css/myStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\myStyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\assets\\img\\_DSC7602.jpg",
+      "SourceId": "Ecommerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\",
+      "BasePath": "_content/Ecommerce",
+      "RelativePath": "assets/img/_DSC7602.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\_DSC7602.jpg"
     },
     {
       "Identity": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\assets\\img\\about.jpg",

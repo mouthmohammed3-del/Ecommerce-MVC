@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
+      "Id": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\assets\\css\\myStyle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\myStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\assets\\img\\_DSC7602.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\_DSC7602.jpg"
+    },
+    {
       "Id": "C:\\Users\\jaber\\Downloads\\My-Github\\Ecommerce-MVC\\Ecommerce\\Ecommerce\\wwwroot\\assets\\img\\about.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
     },
